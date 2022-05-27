@@ -15,7 +15,9 @@ var DISHES = [{
   comments: [{
     id: 1,
     rating: 5,
-    comment: "this is good"
+    author: "john",
+    comment: "this is good",
+    date: "2019-01-11"
   }]
 }, {
   id: 2,
@@ -28,7 +30,9 @@ var DISHES = [{
   comments: [{
     id: 2,
     rating: 5,
-    comment: "this is not so good"
+    author: "jovan",
+    comment: "this is not so good",
+    date: "2019-01-11"
   }]
 }, {
   id: 3,
@@ -41,7 +45,9 @@ var DISHES = [{
   comments: [{
     id: 3,
     rating: 5,
-    comment: "this is  not good"
+    author: "jordan",
+    comment: "this is  not good",
+    date: "2029-01-11"
   }]
 }];
 var _default = DISHES;

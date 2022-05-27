@@ -12,7 +12,9 @@ const DISHES = [
        {
          id: 1,
          rating : 5,
-         comment :"this is good"
+         author : "john",
+         comment :"this is good",
+         date: "2019-01-11"
        }
 
      ],
@@ -31,7 +33,9 @@ const DISHES = [
          {
            id: 2,
            rating : 5,
-           comment :"this is not so good"
+           author : "jovan",
+           comment :"this is not so good",
+           date: "2019-01-11"
          }
        ]
        },
@@ -47,7 +51,9 @@ const DISHES = [
            {
              id: 3,
              rating : 5,
-             comment :"this is  not good"
+             author : "jordan",
+             comment :"this is  not good",
+             date: "2029-01-11"
            }
          ]
        },
