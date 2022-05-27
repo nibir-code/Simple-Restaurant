@@ -2,7 +2,7 @@ const DISHES = [
      {
          id: 1,
          name: 'Ginger Burger',
-         Image:'assets/images/burger.jpg',
+         image:'assets/images/burger.jpg',
          title: "Appetizer",
          description: "While eating your appetizer, don't be concerned with dessert. ",
          users: "50 recipes",
@@ -21,9 +21,9 @@ const DISHES = [
 {
         id: 2,
          name: 'pasta',
-         Image:'assets/images/pasta.jpg',
+         image:'assets/images/pasta.jpg',
          title: "Appetizer",
-         description: "While eating your appetizer, don't be concerned with dessert. ",
+         description: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
          users: "50 recipes",
        comments :[
          {
@@ -36,7 +36,7 @@ const DISHES = [
        {
          id: 3,
          name: 'pizza',
-         Image:'assets/images/pizza.jpg',
+         image:'assets/images/pizza.jpg',
          title: "Appetizer",
          description: "While eating your appetizer, don't be concerned with dessert. ",
          users: "50 recipes",
